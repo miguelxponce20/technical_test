@@ -37,8 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'rest_framework',
-    'uf',
+    'rest_framework', # Se agrega el framework REST
+    'uf', # Se agrega la aplicacion uf
 ]
 
 MIDDLEWARE = [
