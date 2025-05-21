@@ -61,7 +61,7 @@ The data is obtained from the public API  [mindicador.cl](https://mindicador.cl/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your_user/technical_test.git
+git clone https://github.com/miguelxponce20/technical_test.git
 cd technical_test
 
 # Create and activate virtual environment
